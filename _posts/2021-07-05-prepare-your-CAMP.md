@@ -5,23 +5,23 @@ I was reflecting this week about how difficult it was to connect with some of my
 
 **Capacity**, Autonomy, Mastery, Purpose (CAMP)
 
-### Capacity
+## Capacity
 Do I have enough energy and time to do this justice? Can I find enough time to dedicate to getting into a [flow state](http://www.devx.com/DevX/Article/11659/). I want to be able to complete things. 
 
-### Autonomy
+## Autonomy
 Do I have a clear path to success? I want and expect challenges, problems, even roadblocks. These are the things that make my job fun, it's the intellectual stimulation that tells me I am doing something difficult enough to matter. 
 
 There are warning signs:
 - [False Ownership](/blog/2021/XX/XX/false-ownership)
 - Lack of sponsorship to overcome roadblocks e.g. lack of organisational support or money
 
-### Mastery
+## Mastery
 Am I sufficiently skilled and knowledgeable to tackle the challenge, or grow enough to meet the expectations of those who have asked me to help.
 
-### Purpose
+## Purpose
 Is what I'm doing valuable to remain important to myself or the organisation through to completion? 
 
-### Does this fit in my CAMP?
+## Does this fit in my CAMP?
 
 So I ask you, does your individual or team CAMP have room for what someone is asking from you. If not, then work out which of the four aspects is the problem. Use it as a tool to help you understand why saying No is O.K, and importantly to have fact based discussions with others.
 
